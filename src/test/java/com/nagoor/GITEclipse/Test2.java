@@ -7,4 +7,9 @@ public class Test2 {
 	public void get() {
 		System.out.println("New get");
 	}
+	@Test
+	public void get1() {
+		System.out.println("New get");
+	}
+	
 }
