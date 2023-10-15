@@ -1,5 +1,10 @@
 package com.nagoor.GITEclipse;
 
-public class Test2 {
+import org.junit.Test;
 
+public class Test2 {
+	@Test
+	public void get() {
+		System.out.println("New get");
+	}
 }
